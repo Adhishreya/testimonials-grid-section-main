@@ -95,6 +95,7 @@ body
 .first,.second,.third,.fourth,.fifth
 {
     display: flex;
+    box-shadow: 0rem 0rem 1rem 0.3rem hsl(0, 0%, 81%);
 }
 /* img
 {
