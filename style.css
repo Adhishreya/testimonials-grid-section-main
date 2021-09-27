@@ -28,7 +28,7 @@ body
 {
     display: grid;
     /* grid-template-columns:  repeat(9,minmax(70px,1fr)); */
-    grid-template-columns:  repeat(9,97px);
+    grid-template-columns:  repeat(9,15%);
     /* grid-auto-rows: repeat(6,100px); */
     /* grid-template-rows; */
     margin: 2% auto ;
